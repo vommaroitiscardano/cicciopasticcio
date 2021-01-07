@@ -80,6 +80,8 @@ void cacolaDiagonaleSecondaria(int matrice[dim][dim]){
 
 int main(){
 
+	cout<<"Hello world";
+
 	int matrice[dim][dim];
 
 	riempiMatrice(matrice);
